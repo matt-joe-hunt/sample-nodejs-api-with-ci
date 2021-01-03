@@ -4,7 +4,7 @@ I'm a firm believer that when learning a new technology that keeping things simp
 
 What I offer here is a simple implementation of a NodeJS RESTAPI built using the Express Library. I have chosen to [deploy this application with Docker](#Running-with-Docker) so providing you have this tool, there should be little issue with setting up your environment.
 
-Do not expect this to be complete with all industry best practices, however if you are new to working with Node and Express then this could be a good sample project to start with! My hope is that you will find some use in 'poking' this implementation to see how it works and changing it to see how it breaks. Below I will explain what each file is doing so that you can start to build your own applications.
+The justification for this project is to showcase the functionality of Gitlab CI alongside a simple project, if you are after an explanation of the Node.js, please take a look [here](https://github.com/matt-joe-hunt/sample-nodejs-api).
 
 ## What is going on?
 
