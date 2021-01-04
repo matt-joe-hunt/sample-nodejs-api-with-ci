@@ -12,3 +12,4 @@ Github allows us to create a CI Pipeline for our applications using compute reso
 
 ## Structure of Project
 
+Inside of the hidden directoy, (it starts with a .) .github, and then inside of the workflows directory is a file called docker-image.yml.
